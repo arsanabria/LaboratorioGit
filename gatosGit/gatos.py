@@ -1,7 +1,11 @@
 import funcionesTarea
 
 gato1 = funcionesTarea.gato()
+<<<<<<< HEAD
 gato1.nombre = "Tommy"
+=======
+gato1.nombre = "Muelas"
+>>>>>>> Cambio del nombre del gato1 desde main
 gato1.color = "negro"
 gato1.edad = 4
 gato1.aniadirlista()
